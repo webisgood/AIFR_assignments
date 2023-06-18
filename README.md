@@ -1,0 +1,3 @@
+As a part of the course Artificial Intelligence for Robotics (BITS F327) we were given two programming assignments in python.
+The first assignment was based on implementing path-finding algorithms like Dijkstra and A* for travelling from one point to another in our university campus. For this we had to model the campus' map in the form of a graph and work with it.
+In the second assignment, we were required to implement a SLAM (Simultaneous Localization & Mapping) algorithm for a car moving along a polynomial curve with respect to two fixed landmarks.
